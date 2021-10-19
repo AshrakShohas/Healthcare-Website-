@@ -1,0 +1,21 @@
+.l-btn{
+    background-color:tomato;
+    color: white;
+    /* padding: 7px; */
+    margin: 15px;
+    border: none;
+}
+.l-btn:hover{
+    background-color: rgb(240, 51, 17);
+}
+.d-name{
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: 600;
+    font-size: 17px;
+    color: tomato;
+}
+.d-name a{
+    text-decoration: none;
+    
+}

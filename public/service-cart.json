@@ -1,0 +1,65 @@
+[
+    
+   
+    
+   
+    {
+        "id": 3,
+        "name": "Shohas Jalwa",
+        "visit": "11500",
+        "specialty":"Gastroenterologists",
+        "qualification":"MBBS",
+        "description": "Doctors, also known as physicians, are licensed health professionals who maintain and restore human health through the practice of medicine.",
+        "img": "https://doximity-res.cloudinary.com/image/upload/t_profile_photo_320x320/d3zich4lg7ulhoqx39jl.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Ashrak Murgan",
+        "visit": "10000",
+        "specialty":"Cardiologist",
+        "qualification":"MBBS",
+        "description": "Doctors, also known as physicians, are licensed health professionals who maintain and restore human health through the practice of medicine.",
+        "img": "https://assets.reputation.com/12460/1912977869.jpg"
+    },
+
+    {
+        "id": 2,
+        "name": "Bijoy jhinku",
+        "visit": "12500",
+        "specialty":"Medicine",
+        "qualification":"MBBS,FCPS",
+        "description": "Doctors, also known as physicians, are licensed health professionals who maintain and restore human health through the practice of medicine.",
+        "img": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGRvY3RvcnxlbnwwfDB8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 4,
+        "name": "Shion Chawla",
+        "visit": "15300",
+        "specialty":"Nephrologists",
+        "qualification":"MBBS,BCS",
+        "description": "Doctors, also known as physicians, are licensed health professionals who maintain and restore human health through the practice of medicine.",
+        "img": "https://media.istockphoto.com/photos/portrait-of-mature-male-doctor-wearing-white-coat-standing-in-picture-id1203995945?k=20&m=1203995945&s=612x612&w=0&h=g0_ioNezBqP0NXrR_36-A5NDHIR0nLabFFrAQVk4PhA="
+    },
+   
+    {
+        "id": 5,
+        "name": "Meherab Hossain",
+        "visit": "20000",
+        "specialty":"Neuro Surgery",
+        "qualification":"MBBS",
+        "description": "Doctors, also known as physicians, are licensed health professionals who maintain and restore human health through the practice of medicine.",
+        "img": "https://media.glamour.com/photos/56966cfa16d0dc3747f03ddf/master/w_1600%2Cc_limit/health-fitness-blogs-vitamin-g-2012-02-01-0201-fat-docs-weight-loss_vg.jpg"
+    },
+   
+    {
+        "id": 6,
+        "name": "Ron Hossain",
+        "visit": "1700",
+        "specialty":"Burn & Plastic",
+        "qualification":"MBBS,PFC",
+        "description": "Doctors, also known as physicians, are licensed health professionals who maintain and restore human health through the practice of medicine.",
+        "img": "https://www.utmedicalcenter.org/wp-content/uploads/2020/01/savage_jennifer_g_md-600x676.jpg"
+    }
+   
+  
+]

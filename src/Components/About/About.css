@@ -1,0 +1,12 @@
+.container1{
+    box-shadow: gray;
+}
+.card-body1{
+    background-color: rgb(216, 216, 216);
+}
+.about-details h5{
+    font-size: 20px;
+    font-weight: 700;
+    padding: 0;
+    color: rgb(129, 1, 1);
+}

@@ -1,0 +1,6 @@
+.ser-details{
+    /* background-color: rgb(5, 112, 116); */
+    background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)), url(https://thumbs.dreamstime.com/b/medical-concept-blue-background-doctor-s-desk-instruments-copy-space-right-medical-concept-blue-background-doctor-s-desk-133144619.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
